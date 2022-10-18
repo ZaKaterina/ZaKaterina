@@ -1,6 +1,6 @@
 ![Header](https://github.com/ZaKaterina/ZaKaterina/blob/main/assets/logo.png)
 
-#### *Будущий специалист в сфере тестирования, с постоянным стремлением расти и улучшать всё, что окружает. Мастерски нахожу ошибки, в силу своей профессии. Творческий подход и аналитический склад ума - наилучшая комбинация для перспективного специалиста.*
+#### <center> *Будущий специалист в сфере тестирования, с постоянным стремлением расти и улучшать всё, что окружает. Мастерски нахожу ошибки, в силу своей профессии. Творческий подход и аналитический склад ума - наилучшая комбинация для перспективного специалиста.*
 
 ____
 
@@ -17,3 +17,7 @@ ____
 ![MYSQL](https://img.shields.io/badge/-MySQL-AFEEEE?style=for-the-badge&logo=MySQL&logoColor=D2691E)
 ![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-AFEEEE?style=for-the-badge&logo=ElephantSQL)
 ![DevTools](https://img.shields.io/badge/-DevTools-AFEEEE?style=for-the-badge&logo=DevTools)
+
+____
+
+## Testing Documentation
