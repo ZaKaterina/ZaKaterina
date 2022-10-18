@@ -1,8 +1,9 @@
 ![Header](https://github.com/ZaKaterina/ZaKaterina/blob/main/assets/logo.png)
 
-#### <center> *Будущий специалист в сфере тестирования, с постоянным стремлением расти и улучшать всё, что окружает. Мастерски нахожу ошибки, в силу своей профессии. Творческий подход и аналитический склад ума - наилучшая комбинация для перспективного специалиста.*
+### <center> *Будущий специалист в сфере тестирования, с постоянным стремлением расти и улучшать всё, что окружает. Мастерски нахожу ошибки, в силу своей профессии. Творческий подход и аналитический склад ума - наилучшая комбинация для перспективного специалиста.*
 
-____
+## My SV
+[Link to my CV]()
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-AFEEEE?style=for-the-badge&logo=appveyor)
@@ -18,13 +19,17 @@ ____
 ![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-AFEEEE?style=for-the-badge&logo=ElephantSQL)
 ![DevTools](https://img.shields.io/badge/-DevTools-AFEEEE?style=for-the-badge&logo=DevTools)
 
-____
 
 ## Testing Documentation
 
+- [Checklists]()
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collection]()
 
 
-___
+____
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaKaterina&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
