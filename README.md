@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/ZaKaterina/ZaKaterina/blob/main/assets/logo.png)
 
 About me
 
