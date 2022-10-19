@@ -23,7 +23,7 @@
 ## Testing Documentation
 
 - [Layout](https://github.com/ZaKaterina/Layout.git)
-- [Test-Cases]()
+- [Test-Suite and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collection]()
