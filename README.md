@@ -26,7 +26,7 @@
 - [Checklists&Test-Cases](https://github.com/ZaKaterina/Checklist-Test-Case.git)
 - [Bug-Reports]()
 - [SQL Queries]()
-- [Postman Collection]()
+- [Postman Collection](https://github.com/ZaKaterina/Postman-Collection.git)
 
 
 ____
