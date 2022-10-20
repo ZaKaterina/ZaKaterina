@@ -23,11 +23,10 @@
 ## Testing Documentation
 
 - [Layout](https://github.com/ZaKaterina/Layout.git)
-- [Checklists and Test-Cases](https://github.com/ZaKaterina/Checklists_and_Test-cases.git)
+- [Checklists&Test-Cases](https://github.com/ZaKaterina/Checklist-Test-Case.git)
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collection]()
-- [Test-design]()
 
 
 ____
