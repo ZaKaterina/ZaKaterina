@@ -23,7 +23,7 @@
 ## Testing Documentation
 
 - [Layout](https://github.com/ZaKaterina/Layout.git)
-- [Checklists&Test-Cases](https://github.com/ZaKaterina/Checklist-Test-Case.git)
+- [Checklists_Test-Cases](https://github.com/ZaKaterina/Checklist_Test-Case.git)
 - [Bug-Reports](https://github.com/ZaKaterina/Bug-Reports.git)
 - [SQL Queries](https://github.com/ZaKaterina/SQL_Queries.git)
 - [Postman Collection](https://github.com/ZaKaterina/Postman-Collection.git)
