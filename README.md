@@ -2,8 +2,8 @@
 
 ### <center> *Будущий специалист в сфере тестирования, с постоянным стремлением расти и улучшать всё, что окружает. Мастерски нахожу ошибки, в силу своей профессии. Творческий подход и аналитический склад ума - наилучшая комбинация для перспективного специалиста.*
 
-## My SV
-[Link to my CV]()
+## My CV
+[Link to my CV](https://disk.yandex.ru/d/zxtyJ9WcJ5_WgA)
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-AFEEEE?style=for-the-badge&logo=appveyor)
